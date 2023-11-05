@@ -33,7 +33,7 @@ Certain roles and departments have restrictions on changing work hours, and some
 
 - **Department and Role Management:** The software provides tools for managing departments and roles, enabling administrators to set working hours and other department-specific policies.
 
-- **Database Integration:** The project features a SQL database that stores employee, department, and role data, ensuring efficient data management.
+- **Database Integration:** The project features a SQL database of the company that stores the company results, employee, department, and role data, ensuring efficient data management.
 
 - **User-Friendly Interface:** A graphical user interface (GUI) simplifies interaction with the system for both employees and administrators.
 
