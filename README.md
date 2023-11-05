@@ -49,7 +49,7 @@ The project is structured using the Model-View-Controller (MVC) pattern. Here's 
 
 - **Controller (C):** Classes like `ExperimentController` act as intermediaries, handling user inputs, and connecting the Model and View.
 
-## Database Schema
+## Database
 
 The SQL database stores essential data for the project. Below is the schema with key tables:
 
@@ -59,8 +59,6 @@ The SQL database stores essential data for the project. Below is the schema with
 - `emp_roleList_tbl`: Records the relationships between employees, roles, and employee IDs.
 - `dep_employeeList_tbl`: Associates departments with lists of employee IDs.
 - `company_tbl`: Contains information about the company, such as its name.
-
-For a detailed database schema, refer to the [Database Schema](#database-schema) section.
 
 ## Getting Started
 
