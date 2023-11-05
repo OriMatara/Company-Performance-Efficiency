@@ -13,7 +13,6 @@ The **Company Performance Efficiency** project is designed to enhance the workin
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Key Features
 
