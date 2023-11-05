@@ -18,10 +18,13 @@ The **Company Performance Efficiency** project is designed to enhance the workin
 ## Project Description
 The project focuses on enabling employees to work according to their personal preferences while considering the constraints of their roles, departments, and the company's requirements. In the traditional setup, all employees start and end their workday at fixed hours. However, in this system, employees can choose from four preferences:
 
--1.**Early Birds:** Those who prefer to start and end work earlier.
--2.**Night Owls:** Employees who favor later working hours.
--3.**Status Quo:** Those who prefer not to change their existing work hours.
--4.**Remote Work:** Employees who wish to work from home without specific start and end times.
+1.**Early Birds:** Those who prefer to start and end work earlier.
+
+2.**Night Owls:** Employees who favor later working hours.
+
+3.**Status Quo:** Those who prefer not to change their existing work hours.
+
+4.**Remote Work:** Employees who wish to work from home without specific start and end times.
 
 The key to this project's success is that work hours aligned with an employee's preference can boost their efficiency by 20%. Conversely, hours misaligned with their preference can decrease their efficiency by 20%. If an employee doesn't modify their work hours, their efficiency remains unchanged. Additionally, working from home increases efficiency by 10%.
 
